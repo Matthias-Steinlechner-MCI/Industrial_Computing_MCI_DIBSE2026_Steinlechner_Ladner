@@ -34,7 +34,7 @@ Grundlage war Matthias' eigener Raspberry Pi 3 (laut Aufdruck Model B+), den wir
 - Zentrierlippe zwischen Boden und Deckel
 - Individualisierung: Lüftungsschlitze, GPIO-Öffnung, gravierter Schriftzug „STEINLECHNER · LADNER“
 
-Die Interference Detection in der Baugruppe meldet **keine Überschneidungen**. Gesliced haben wir mit UltiMaker Cura für einen Creality Ender-3 (ca. 5 h 20 min, 38 g PLA, ohne Stützstrukturen). Als Hilfe hat uns der KI-Assistent Claude durch die einzelnen Schritte angeleitet, konstruiert haben wir selbst (siehe [Abschnitt 8](#8-ki-unterstützung)).
+Die Interference Detection in der Baugruppe meldet **keine Überschneidungen**. Gesliced haben wir mit UltiMaker Cura für einen Creality Ender-3 (ca. 5 h 20 min, 38 g PLA, ohne Stützstrukturen). Den KI-Assistenten Claude haben wir als Hilfestellung für die Onshape-Dokumentation und die Struktur des Vorgehens verwendet, konstruiert haben wir selbst (siehe [Abschnitt 8](#8-ki-unterstützung)).
 
 | Kennzahl | Wert |
 | --- | --- |
@@ -170,7 +170,7 @@ Das vollständige, parametrische Modell mit Feature-Baum und Versionshistorie li
 
 ## 8 KI-Unterstützung
 
-Wie in der Lehrveranstaltung erlaubt, haben wir den KI-Assistenten Claude (Anthropic) als Hilfe eingesetzt. Claude hat uns die Schritte angewiesen, also das Vorgehen erklärt und gezeigt, welche Onshape-Features sich für welchen Schritt eignen.
+Wir haben den KI-Assistenten Claude (Anthropic) als Hilfestellung verwendet, um die Dokumentation von Onshape besser zu verstehen und eine Struktur für das Vorgehen vorzugeben.
 
 Konstruiert, geprüft und gesliced haben wir selbst, gemeinsam im Online-Call an Matthias' Rechner. Dieses Abgabedokument haben wir mit Unterstützung von Claude aus unseren Notizen und Screenshots zusammengestellt.
 
